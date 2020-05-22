@@ -1,0 +1,71 @@
+body {
+    background-image: url(img/923-ulicza-kalina-penza.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display: block;
+    margin: 0;
+ }
+main{
+    width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1000px;
+}
+      .blog-navigation {
+        margin-bottom: 30px;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.582);
+        width: auto;
+        height: 880px;
+        float: left;
+        color: #ffffff;
+      }
+      .blog{
+        padding: 100px;
+      }
+      h1 {
+        font-weight: 400px;
+        font-size: 24px;
+        line-height: normal;
+      }
+      .page-title {
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 42px;
+        font-family: "Verdana", sans-serif;
+        text-align: center;
+      }
+      a[href] {
+        color: #eeff00cb;
+
+      }
+      .pp{
+        text-align: center;
+      }
+.History{
+    text-align: center;
+    padding: 40px;
+}
+
+ul li {
+    list-style: none;
+    float: left;
+    text-align: center;
+}
+ul li a {
+    display: block;
+    width: 230px;
+    text-decoration: none;
+    font-family:  "Exo2-Medium", sans-serif;
+    font-size: 17px;
+    color: white;
+    height: 35px;
+    padding-top: 15px;
+    cursor: pointer;
+}
+table{
+  padding: 100px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
